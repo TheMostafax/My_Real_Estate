@@ -60,9 +60,6 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 </p>
 
 
-
-
-
 <hr>
 
 
@@ -73,11 +70,14 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 <h3 align="center">Home page</h3>
 
 
+![home](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/521f7332-7dd6-4bba-9af1-cbf34a9e382e)
+
 
 <hr>
 
 <h3 align="center">About Us page</h3>
 
+![about](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/146adc58-d84f-499b-9aad-d72dc17fec64)
 
 
 <hr>
@@ -85,6 +85,7 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 <h3 align="center">Our Features page</h3>
 
 
+![features](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/b410dbf6-06b3-4ac7-8635-d9826cb78ac4)
 
 
 <hr>
@@ -92,20 +93,14 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 <h3 align="center">On Sale page</h3>
 
 
+![onsale](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/cc783109-f816-4150-99fb-667c36d5f34f)
 
 
 <hr>
 
 <h3 align="center">Demo page</h3>
 
-
-
-
-<hr>
-
-<h3 align="center">Register page</h3>
-
-
+![demo](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/45e0e0ba-d291-44df-9f99-9c464124ad64)
 
 
 <hr>
@@ -115,13 +110,15 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 
 
+![clients](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/b3e58b7b-b872-4be2-bff8-2246fbf3e48d)
 
 
 
 <hr>
 
-<h3 align="center">Contact Us  page</h3>
+<h3 align="center">Contact Us page</h3>
 
+![contact](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/22add6c2-0fac-4cce-b991-d6d5205f8f9b)
 
 
 
