@@ -1,7 +1,8 @@
 <h1 align="center">My Real Estate</h1>
 <p align="center">
   
-![myanimeapp](https://github.com/TheMostafax/My_Anime_App/assets/81190585/22c52210-dfb1-4eff-b07c-d07d431111cb)
+![main](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/d2415a1a-1a8f-4d05-892b-7aa49884fe8a)
+
 
 </p>
 <h1 align="center">Project Description </h1>
@@ -27,30 +28,24 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 ```
 
 └── myrealstate/
-    ├── lib/
-    |   ├── models/
-    |       └── auth.dart
-    |       └── login.dart
-    |       └── signup.dart
-    │   ├── models/
-    |       └── product.dart
-    |       └── categorym.dart
-    |   ├── pages/
-    |       └── about.dart
-    |       └── category.dart
-    |       └── categoryanime.dart
-    |       └── favourite.dart
-    |       └── help.dart
-    |       └── home.dart
-    |       └── seeall.dart
-    |       └── setting.dart
-    |   ├── screens/
-    |       └── anime_screen.dart
-    |       └── onboard.dart
-    |   ├── services/
-    |       └── anime_service.dart
-    |       └── category_service.dart
-    └── main.dart
+    ├── src/
+    |   ├── animation/
+    │   ├── assets/
+    |   ├── components/
+    |   └── ├── pages/
+    |       └── about.js
+    |       └── clients.js
+    |       └── contact.js
+    |       └── demo.js
+    |       └── features.js
+    |       └── home.js
+    |       └── onsale.js
+    |       └── service.js
+    |     └── navbar.js
+    |     └── footer.js
+    └── App.js
+    └── index.css
+    └── index.js
 
 ```
 
