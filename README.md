@@ -33,14 +33,14 @@ Overall, my real estate web app is a powerful tool for your business, providing 
     │   ├── assets/
     |   ├── components/
     |   └── ├── pages/
-    |       └── about.js
-    |       └── clients.js
-    |       └── contact.js
-    |       └── demo.js
-    |       └── features.js
-    |       └── home.js
-    |       └── onsale.js
-    |       └── service.js
+    |            └── about.js
+    |            └── clients.js
+    |            └── contact.js
+    |            └── demo.js
+    |            └── features.js
+    |            └── home.js
+    |            └── onsale.js
+    |            └── service.js
     |     └── navbar.js
     |     └── footer.js
     └── App.js
