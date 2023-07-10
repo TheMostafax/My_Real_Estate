@@ -3,7 +3,6 @@
   
 ![main](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/d2415a1a-1a8f-4d05-892b-7aa49884fe8a)
 
-
 </p>
 <h1 align="center">Project Description </h1>
 
