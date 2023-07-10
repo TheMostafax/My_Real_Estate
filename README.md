@@ -132,7 +132,7 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 <h1 align="center" style="color:red;">Notes</h1>
 
-<h4 align="left">1.  </h4>
+<h4 align="left">1. The app is still in the development phase and is not yet finished.</h4>
 
 <hr>
 
