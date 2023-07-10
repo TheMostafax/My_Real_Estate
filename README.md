@@ -29,7 +29,6 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 └── myrealstate/
     ├── src/
-    |   ├── animation/
     │   ├── assets/
     |   ├── components/
     |   └── ├── pages/
