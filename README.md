@@ -126,6 +126,10 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 <h2 align="center">Responsive View</h2>
 
+![image](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/e4a51c4b-194d-420e-8ed2-aac451be047f)
+
+
+![image](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/33e728b1-e6c8-47d9-a0e9-1ed509fff438)
 
 
 <hr>
